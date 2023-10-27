@@ -261,3 +261,11 @@
 14:55:01.722 [main] INFO  api.test.UserTests - ******** User Updated *********
 14:55:02.872 [main] INFO  api.test.UserTests - ******** Deleting User *********
 14:55:03.982 [main] INFO  api.test.UserTests - ********  User Deleted *********
+12:38:37.090 [main] INFO  api.test.UserTests - ******** Creating User *********
+12:38:44.746 [main] INFO  api.test.UserTests - ******** User is created  *********
+12:38:44.781 [main] INFO  api.test.UserTests - ******** Reading user info *********
+12:38:46.536 [main] INFO  api.test.UserTests - ******** User info is dispayed *********
+12:38:46.540 [main] INFO  api.test.UserTests - ******** Updating User *********
+12:38:50.899 [main] INFO  api.test.UserTests - ******** User Updated *********
+12:38:52.817 [main] INFO  api.test.UserTests - ******** Deleting User *********
+12:38:55.567 [main] INFO  api.test.UserTests - ********  User Deleted *********
